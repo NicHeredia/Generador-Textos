@@ -2,6 +2,7 @@ import productos from "./productos.js";
 
 const btnColchones = document.getElementById("btnTextoColchones");
 const btnSommiers = document.getElementById("btnTextoSommiers");
+const btnSpringflex = document.getElementById("btnTextoSpringflex");
 
 
 
@@ -553,6 +554,510 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 
 `;
 
+const springflex = `++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓COLCHON DE 1 PLAZA ✓ // LINEA DENSIDAD MEDIA ALTA //
+SPRINGFLEX ,PIERO & SUAVEGON 
+*$${productos["1 plaza clasic"].colchon}* espuma clasicc ...........Para niño
+*$${productos["1 plaza fashion azul"].colchon}* SUAVEGON:FASHION    soporte  60kg esp dens 21 kg x 20 cm 
+*$${productos["1 plaza extra soft"].colchon}* EXTRA SOFT..        soporte  80kg esp dens.23 KG x 20 cm
+*$${productos["1 plaza oasis blue"].colchon}* OASIS BLUE ..      soporte 100kg esp dens 26 kg x 26 CM
+*$${productos["1 plaza oasis light"].colchon}* OASIS LIGHIT       soporte 100kg esp dens.26 kg x 26 cm
+Medidas 1.90 x 80 CM 
+Medidas 1.90 x 80 
+(precio abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago
+Consulta o encargue 
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓COLCHON DE 1 PLAZA ✓
+SPRINGFLEX 
+EXTRA SOFT..  espuma dens. 23 KG x 20 cm 
+........*$${productos["1 plaza extra soft"].colchon}* 
+Y CON SOMMIERS 
+      *$${productos["1 plaza extra soft"].sommier}*  
+(abonando en efctivo O transferencia bancaria o mercado pago )
+Medidas 1.90 x 80 
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago
+Consulta o encargue 
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SUAVEGON :FASHION PROMO
+   ✓COLCHON DE 1 PLAZA ✓
+       *$${productos["1 plaza fashion azul"].colchon}* 
+Y CON SOMMIERS 
+       *$${productos["1 plaza fashion azul"].sommier}*
+(precios abonando en efctivo O transferencia bancaria o mercado pago )
+espuma dens 21 kg x 20 cm soporte 60kg 
+Medidas 1.90 x 80 X 20 CM 
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago
+Consulta o encargue 
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓COLCHON DE 1 PLAZA ✓
+SPRINGFLEX OASIS BLUE de 26 cm 
+espuma dens 26 kg x 26 CM
+Medidas 1.90 x 80 
+.       *$${productos["1 plaza oasis blue"].colchon}* 
+(abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago
+Consulta o encargue 
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SOMMIERS DE 1 PLAZA ✓
+SPRINGFLEX OASIS BLUE de 26 cm 
+       *$${productos["1 plaza oasis blue"].sommier}* ..
+(abonando en efctivo O transferencia bancaria o mercado pago )
+espuma dens 26 kg x 26 CM
+Medidas 1.90 x 80 
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago
+Consulta o encargue 
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓COLCHON DE 1 PLAZA ✓
+SPRINGFLEX OASIS LIGHIT
+espuma dens.26 kg x 26 cm 
+Medidas 1.90 X 80CM X 26 CM 
+       *$${productos["1 plaza oasis light"].colchon}* 
+(abonando en efctivo O transferencia bancaria o mercado pago ) 
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago
+Consulta o encargue 
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SOMMIERS DE 1 PLAZA ✓
+SPRINGFLEX OASIS LIGHIT
+      *$${productos["1 plaza oasis light"].sommier}*
+(abonando en efctivo O transferencia bancaria o mercado pago )
+espuma dens.26 kg x 26 cm 
+Medidas 1.90 X 80CM X 26 CM 
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago
+Consulta o encargue 
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SOMMIERS DE 1 PLAZA✓
+SPRINGFLEX
+*$${productos["1 plaza clasic"].sommier}* espuma clasicc ........  .Para niños de17cm
+*$${productos["1 plaza fashion azul"].sommier}* SUAVEGON:FASHION para 60kg dens21kg de20cm 
+*$${productos["1 plaza extra soft"].sommier}* EXTRA SOFT ......para 80KG dens23kg de20kg
+*$${productos["1 plaza oasis blue"].sommier}* OASIS BLUE ......para 100kg dens26kg de26kg
+*$${productos["1 plaza oasis light"].sommier}* OASIS LIGHIT.....para 100kg dens26kg de26kg
+(abonando en efctivo O transferencia bancaria o mercado pago )
+Medidas 1.90 x 80 CM
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓ COLCHONES 2 PLAZAS ✓///LINEA DENSIDAD MEDIA ALTA //
+SPRINGFLEX  PIERO & SUAVEGON 
+*$${productos["2 plazas fashion azul"].colchon}* SUAVEGON:FASHION esp dens 21 kg x 20 cm    soporte 60 kg 
+*$${productos["2 plazas piero"].colchon}* PIERO BODY PROespuma dens 23 kg x 20 cm    soporte 80 kg
+*$${productos["2 plazas extra soft"].colchon}* EXTRA SOFT    espuma dens 23 KG x 20 cm    soporte 80 kg
+*$${productos["2 plazas oasis blue"].colchon}* OASIS BLUE    espuma dens 26 kg x 23 CM    soporte 100 kg 
+*$${productos["2 plazas oasis light"].colchon}* OASIS LIGHIT  espuma dens.26 kg x 26 cm    soporte 100 kg
+*$${productos["2 plazas native"].colchon}* NATIVE GREY  espuma dens.30 kg x 30 cm    soporte 120 kg
+*$${productos["2 plazas mithos perseo"].colchon}* MITHOS PERSEO espuma dens.35 kg x 35 cm   soporte 100 kg
+*$${productos["2 plazas mithos zeus"].colchon}* MITHOS ZEUS   resortes poket  35 kg x 33 cm soporte  100 kg  
+*$${productos["2 plazas aspen resortes"].colchon}* ASPEN EURO    resortes bonell 30 kg x 30 cm soporte  120 kg                                          
+Medidas 1.90 x 1.40 ...........
+
+...............................................
+✓ #SOMMIERS DE 2  PLAZAS✓
+SPRINGFLEX  PIERO  & SUAVEGON 
+(abonando en efctivo O transferencia bancaria o mercado pago )
+*$${productos["2 plazas fashion azul"].sommier}* SUAVEGON:FASHION esp dens 21 kg x 20 cm    soporte 60 kg 
+*$${productos["2 plazas piero"].sommier}* PIERO BODY PROespuma dens 23 kg x 20 cm    soporte 80 kg
+*$${productos["2 plazas extra soft"].sommier}* EXTRA SOFT    espuma dens 23 KG x 20 cm    soporte 80 kg
+*$${productos["2 plazas oasis blue"].sommier}* OASIS BLUE    espuma dens 26 kg x 23 CM    soporte 100 kg 
+*$${productos["2 plazas oasis light"].sommier}* OASIS LIGHIT  espuma dens.26 kg x 26 cm    soporte 100 kg
+*$${productos["2 plazas native"].sommier}* NATIVE GREY  espuma dens.30 kg x 30 cm    soporte 120 kg
+*$${productos["2 plazas mithos perseo"].sommier}* MITHOS PERSEO espuma dens.35 kg x 35 cm   soporte 100 kg
+*$${productos["2 plazas mithos zeus"].sommier}* MITHOS ZEUS   resortes poket  35 kg x 33 cm soporte  100 kg  
+*$${productos["2 plazas aspen resortes"].sommier}* ASPEN EURO    resortes bonell 30 kg x 30 cm soporte  120 kg  
+Medidas 1.90 x 1.40 
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓ COLCHON 2 PLAZAS✓
+SPRINGFLEX EXTRA SOFT
+     *$${productos["2 plazas extra soft"].colchon}*
+espuma dens 23 KG soporte 80 kg x persona
+Medidas 1.90 x 1.40 x 20 cm
+(abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓ SOMMIERS DE 2  PLAZAS✓
+SPRINGFLEX EXTRA SOFT
+     *$${productos["2 plazas extra soft"].sommier}*
+espuma dens 23 KG soporte 80 kg x persona
+Medidas 1.90 x 1.40 x 20 cm
+(abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SUAVEGON :FASHION PROMO
+✓ COLCHON  2 PLAZAS✓
+      *$${productos["2 plazas fashion azul"].colchon}*
+espuma dens 21 kg x 20 cm soporte 60kg
+Medidas 1.90 x 1.40 x 20 cm
+(precios abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     
+ 
+✓ SOMMIERS 2 PLAZAS✓
+SUAVEGON :FASHION PROMO
+      *$${productos["2 plazas fashion azul"].sommier}*
+espuma dens 21 kg x 20 cm soporte 60kg
+Medidas 1.90 x 1.40 x 20 cm
+(precios abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓ COLCHON  2 PLAZAS✓
+PIERO BODY PRO ESPUMA 
+      *$${productos["2 plazas piero"].colchon}*
+espuma dens 23 kg x 20 cm soporte 8Okg x persona
+Medidas 1.90 x 1.40 x 23 cm
+(precios abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓ SOMMIERS 2 PLAZAS✓
+PIERO BODY PRO ESPUMA 
+      *$${productos["2 plazas piero"].sommier}*
+espuma dens 23 kg x 20 cm soporte 8Okg x persona
+Medidas 1.90 x 1.40 x 23 cm
+(precios abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
+++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓ COLCHON  2 PLAZAS✓
+SPRINGFLEX OASIS BLUE DE 23CM
+      *$${productos["2 plazas oasis blue"].colchon}*
+espuma dens.26 kg    soporte 100 kg x persona
+Medidas 1.90 x 1.40 x 23 cm
+       (precios abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+✓ SOMMIERS 2 PLAZAS✓
+SPRINGFLEX OASIS BLUE DE 23CM
+      *$${productos["2 plazas oasis blue"].sommier}*
+espuma dens.26 kg    soporte 100 kg x persona
+Medidas 1.90 x 1.40 x 23 cm
+(precios abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓ COLCHON 2 PLAZAS✓  
+SPRINGFLEX OASIS LIGHIT                 
+      *$${productos["2 plazas oasis light"].colchon}* 
+espuma dens.26 kg soporte   100 kg x persona  
+Medidas 1.90 x 1.40 x 26 cm
+(precios abonando en efctivo O transferencia bancaria o mercado pago
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+✓
+++++++++++++++++++++++++++++++++++++++++++++++++++     
+
+✓ SOMMIERS DE 2 PLAZAS✓
+SPRINGFLEX OASIS LIGHIT 
+      *$${productos["2 plazas oasis light"].sommier}*  
+espuma dens.26 kg soporte   100 kg x persona  
+Medidas 1.90 x 1.40 x 26 cm
+(precios abonando en efctivo O transferencia bancaria o mercado pago
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+NATIVE GREY  EUROPILOW ESPUMA DENSIDAD 30 KG 
+✔️ COLCHON 2 PLAZAS ✔️
+      $${productos["2 plazas native"].colchon}  
+     espuma dens.30 kg soporte + 100 kg x persona  
+Medidas 1.90 x 1.40 x 30 cm 
+(abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✔️ SOMMIERS 2 PLAZAS ✔️
+NATIVE GREY  EUROPILOW ESPUMA DENSIDAD 30 KG 
+      $${productos["2 plazas native"].sommier}   
+espuma dens.30 kg soporte + 100 kg x persona  
+Medidas 1.90 x 1.40 x 30 cm 
+(abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ SPRINGFLEX ASPEN EURO
+✓ COLCHON 2 PLAZAS ✓
+      *$${productos["2 plazas aspen resortes"].colchon}*
+resortes bonell 30 kg x 30 cm soporte  120 kg                                          
+Medidas 1.90 x 1.40 
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
+++++++++++++++++++++++++++++++++++++++++++
+       
+✓ SOMMIERS  2 PLAZAS ✓
+SPRINGFLEX ASPEN EURO
+      *$${productos["2 plazas aspen resortes"].sommier}*
+resortes bonell 30 kg x 30 cm soporte  120 kg                                          
+Medidas 1.90 x 1.40 
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SPRINGFLEX MITHOS PERSEO
+✓ COLCHON  DE 2  PLAZAS✓
+        *$${productos["2 plazas mithos perseo"].colchon}* 
+espuma dens.35 kg soporte peso  de 120 kg x persona
+Medidas 1.90 x 1.40 x 35 cm
+(abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓ SOMMIERS  DE 2  PLAZAS✓
+SPRINGFLEX MITHOS PERSEO
+       *$${productos["2 plazas mithos perseo"].sommier}*  
+espuma dens.35 kg soporte peso  de 120 kg x persona
+(abonando en efctivo O transferencia bancaria o mercado pago )
+Medidas 1.90 x 1.40 x 35 cm 
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SPRINGFLEX MITHOS ZEUS
+✓ COLCHON  DE 2  PLAZAS✓
+        *$${productos["2 plazas mithos zeus"].colchon}* 
+RESORTES POKET dens.35 kg soporte peso  de 120 kg x persona
+Medidas 1.90 x 1.40 x 35 cm 
+(abonando en efctivo O transferencia bancaria o mercado pago )
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+✓ SOMMIERS  DE 2  PLAZAS✓
+SPRINGFLEX MITHOS ZEUS
+       *$${productos["2 plazas mithos zeus"].sommier}*  
+RESORTES POKET dens.35 kg soporte peso  de 120 kg x persona
+(abonando en efctivo O transferencia bancaria o mercado pago )
+Medidas 1.90 x 1.40 x 35 cm 
+✓✓Envio a domicilio s/c dentro de la ciudad
+✓Recibimos tarjetas de crédito y débito
+✓Tarjeta naranja
+‌✓Mercado pago.
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+`
 
 
 
@@ -590,3 +1095,19 @@ btnSommiers.addEventListener("click", () => {
   enlaceDescarga.click();
 
 });
+
+btnSpringflex.addEventListener("click", () => {
+
+
+       // Crear un objeto Blob con el contenido y el tipo MIME
+       var archivoBlob = new Blob([springflex], { type: 'text/plain' });
+     
+       // Crear un enlace para descargar el archivo
+       var enlaceDescarga = document.createElement('a');
+       enlaceDescarga.href = URL.createObjectURL(archivoBlob);
+       enlaceDescarga.download = 'archivo_generado.txt';
+     
+       // Simular un clic en el enlace de descarga para iniciar la descarga
+       enlaceDescarga.click();
+     
+     });
