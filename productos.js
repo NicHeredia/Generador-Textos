@@ -55,8 +55,8 @@ const productos = {
         },
         
         "2 plazas especial": {
-            "colchon": "102.000",
-            "sommier": "134.000"
+            "colchon": "110.000",
+            "sommier": "142.000"
         },
         
         "2 plazas especial 27": {
@@ -65,75 +65,75 @@ const productos = {
         },
         
         "1 plaza clasic":{
-            "colchon": "35.500",
-            "sommier": "63.500"
+            "colchon": "45.600",
+            "sommier": "73.600"
         },
         
         "1 plaza fashion azul":{
-            "colchon": "72.000",
-            "sommier": "100.000"
+            "colchon": "82.000",
+            "sommier": "110.000"
         },
         
         "1 plaza extra soft":{
-            "colchon": "77.000",
-            "sommier": "105.000"
+            "colchon": "100.000",
+            "sommier": "128.000"
         },
         
         "1 plaza oasis blue":{
-            "colchon": "138.000",
-            "sommier": "166.000"
+            "colchon": "178.000",
+            "sommier": "206.000"
         },
         
         "1 plaza oasis light":{
-            "colchon": "140.000",
-            "sommier": "168.000"
+            "colchon": "180.000",
+            "sommier": "208.000"
         },
         
         "2 plazas fashion azul":{
-            "colchon": "120.000",
-            "sommier": "152.000"
+            "colchon": "140.000",
+            "sommier": "170.000"
         },
         
         "2 plazas piero":{
-            "colchon": "144.000",
-            "sommier": "176.000"
+            "colchon": "160.000",
+            "sommier": "190.000"
         },
         
         
         "2 plazas extra soft":{
-            "colchon": "150.000",
-            "sommier": "182.000"
+            "colchon": "195.000",
+            "sommier": "225.000"
         },
         
         
         "2 plazas oasis blue":{
-            "colchon": "210.000",
-            "sommier": "242.000"
+            "colchon": "275.000",
+            "sommier": "305.000"
         },
         
         "2 plazas oasis light":{
-            "colchon": "235.000",
-            "sommier": "267.000"
+            "colchon": "300.000",
+            "sommier": "330.000"
         },
         
         "2 plazas aspen resortes":{
-            "colchon": "285.000",
-            "sommier": "317.000"
+            "colchon": "370.000",
+            "sommier": "400.000"
         },
         
         "2 plazas native":{
-            "colchon": "295.000",
-            "sommier": "327.000"
+            "colchon": "380.000",
+            "sommier": "410.000"
         },
         
         "2 plazas mithos perseo":{
-            "colchon": "315.000",
-            "sommier": "347.000"
+            "colchon": "400.000",
+            "sommier": "430.000"
         },
         
         "2 plazas mithos zeus":{
-            "colchon": "320.000",
-            "sommier": "352.000"
+            "colchon": "420.000",
+            "sommier": "450.000"
         }
         
         }
