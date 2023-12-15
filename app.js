@@ -93,7 +93,7 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
 COLCHONES 1 PLAZA  //LINEA DENSIDAD MEDIA //
- ..............*$${productos["1 plaza matelase"].colchon}*..........
+ ..............*$${productos["1 plaza resortes"].colchon}*..........
  RESORTES ........Para 90 kg.
 Medidas 1.90 x 80 x 20 cm .
 ✓✓Envio a domicilio s/c dentro de la ciudad
@@ -108,7 +108,7 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 COLCHONES 1 PLAZA  //LINEA DENSIDAD MEDIA // 
-      ✓*$${productos["1 plaza matelase"].colchon}*
+      ✓*$${productos["1 plaza especial"].colchon}*
   Espuma tela .matelase especial..Para 90 kg  
 Medidas 1.90 x 80 x 20 cm .
 (precios abonando en efctivo o transf,bancaria o mercado pago) 
@@ -153,7 +153,7 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
- //✓COLCHONES 2 PLAZAS✓////LINEA DENSIDAD MEDIA //
+ //✓COLCHONES 2 PLAZAS✓ LINEA DENSIDAD MEDIA
 $${productos["2 plazas sabana"].colchon}   tela sabana  . .... Para 70 kg esp dens 21 kg x 20 cm 
 $${productos["2 plazas matelase"].colchon}   tela matelase ..... Para 80 kg esp dens.23 KG x 20 cm
 $${productos["2 plazas resortes"].colchon}   tela Matelase ...   Para 90 kg.esp dens 25 kg x 20 CM resortes                 
