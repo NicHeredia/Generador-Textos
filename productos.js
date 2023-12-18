@@ -15,8 +15,8 @@ const productos = {
         },
         
         "1 plaza especial": {
-            "colchon": "81.000",
-            "sommier": "110.000"
+            "colchon": "85.000",
+            "sommier": "113.000"
         },
         
         "1 plaza y media sabana": {
@@ -35,8 +35,8 @@ const productos = {
         },
         
         "1 plaza y media especial": {
-            "colchon": "92.000",
-            "sommier": "122.000"
+            "colchon": "97.000",
+            "sommier": "126.000"
         },
         
         "2 plazas sabana": {
@@ -60,8 +60,8 @@ const productos = {
         },
         
         "2 plazas especial 27": {
-            "colchon": "130.000",
-            "sommier": "162.000"
+            "colchon": "136.000",
+            "sommier": "166.000"
         },
         
         "1 plaza clasic":{
