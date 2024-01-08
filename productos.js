@@ -1,67 +1,67 @@
 const productos = {
         "1 plaza sabana" : {
-            "colchon": "57.000",
-            "sommier": "85.000",
+            "colchon": "58.000",
+            "sommier": "88.000",
         },
         
         "1 plaza matelase": {
-            "colchon": "63.000",
-            "sommier": "91.000"
+            "colchon": "65.000",
+            "sommier": "95.000"
         },
         
         "1 plaza resortes": {
-            "colchon": "77.000",
-            "sommier": "105.000"
+            "colchon": "80.000",
+            "sommier": "110.000"
         },
         
         "1 plaza especial": {
-            "colchon": "85.000",
-            "sommier": "113.000"
+            "colchon": "88.000",
+            "sommier": "118.000"
         },
         
         "1 plaza y media sabana": {
-            "colchon": "63.000",
-            "sommier": "98.000"
+            "colchon": "65.000",
+            "sommier": "96.000"
         },
         
         "1 plaza y media matelase": {
-            "colchon": "69.000",
-            "sommier": "99.000"
+            "colchon": "72.000",
+            "sommier": "101.000"
         },
         
         "1 plaza y media resortes": {
-            "colchon": "81.000",
-            "sommier": "111.000"
+            "colchon": "83.000",
+            "sommier": "114.000"
         },
         
         "1 plaza y media especial": {
-            "colchon": "97.000",
-            "sommier": "126.000"
+            "colchon": "98.000",
+            "sommier": "130.000"
         },
         
         "2 plazas sabana": {
-            "colchon": "73.000",
-            "sommier": "105.000"
+            "colchon": "75.000",
+            "sommier": "108.000"
         },
         
         "2 plazas matelase": {
-            "colchon": "80.000",
-            "sommier": "112.000"
+            "colchon": "82.000",
+            "sommier": "115.000"
         },
         
         "2 plazas resortes": {
             "colchon": "90.000",
-            "sommier": "122.000"
+            "sommier": "123.000"
         },
         
         "2 plazas especial": {
-            "colchon": "110.000",
-            "sommier": "142.000"
+            "colchon": "115.000",
+            "sommier": "148.000"
         },
         
         "2 plazas especial 27": {
-            "colchon": "136.000",
-            "sommier": "166.000"
+            "colchon": "140.000",
+            "sommier": "173.000"
         },
         
         "1 plaza clasic":{
