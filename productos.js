@@ -71,69 +71,69 @@ const productos = {
         
         "1 plaza fashion azul":{
             "colchon": "82.000",
-            "sommier": "110.000"
+            "sommier": "112.000"
         },
         
         "1 plaza extra soft":{
             "colchon": "100.000",
-            "sommier": "128.000"
+            "sommier": "130.000"
         },
         
         "1 plaza oasis blue":{
             "colchon": "178.000",
-            "sommier": "206.000"
+            "sommier": "208.000"
         },
         
         "1 plaza oasis light":{
             "colchon": "180.000",
-            "sommier": "208.000"
+            "sommier": "210.000"
         },
         
         "2 plazas fashion azul":{
             "colchon": "140.000",
-            "sommier": "170.000"
+            "sommier": "175.000"
         },
         
         "2 plazas piero":{
             "colchon": "160.000",
-            "sommier": "190.000"
+            "sommier": "195.000"
         },
         
         
         "2 plazas extra soft":{
             "colchon": "195.000",
-            "sommier": "225.000"
+            "sommier": "230.000"
         },
         
         
         "2 plazas oasis blue":{
             "colchon": "275.000",
-            "sommier": "305.000"
+            "sommier": "310.000"
         },
         
         "2 plazas oasis light":{
             "colchon": "300.000",
-            "sommier": "330.000"
+            "sommier": "335.000"
         },
         
         "2 plazas aspen resortes":{
             "colchon": "370.000",
-            "sommier": "400.000"
+            "sommier": "405.000"
         },
         
         "2 plazas native":{
             "colchon": "380.000",
-            "sommier": "410.000"
+            "sommier": "415.000"
         },
         
         "2 plazas mithos perseo":{
             "colchon": "400.000",
-            "sommier": "430.000"
+            "sommier": "435.000"
         },
         
         "2 plazas mithos zeus":{
             "colchon": "420.000",
-            "sommier": "450.000"
+            "sommier": "455.000"
         }
         
         }
