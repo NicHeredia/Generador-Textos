@@ -306,7 +306,6 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
  SOMMIERS DE 1 PLAZA✓
 SPRINGFLEX
 *$${productos["1 plaza clasic"].sommier}* espuma clasicc ........  .Para niños de17cm
-*$${productos["1 plaza fashion azul"].sommier}* SUAVEGON:FASHION para 60kg dens21kg de20cm 
 *$${productos["1 plaza extra soft"].sommier}* EXTRA SOFT ......para 80KG dens23kg de20kg
 *$${productos["1 plaza oasis blue"].sommier}* OASIS BLUE ......para 100kg dens26kg de26kg
 *$${productos["1 plaza oasis light"].sommier}* OASIS LIGHIT.....para 100kg dens26kg de26kg
@@ -444,7 +443,6 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 ✓ SOMMIERS  2 PLAZAS✓
 ✓✓ESPUMA DENSIDAD MEDIA :SPRINGFLEX , PIERO  & SUAVEGON✓✓
 *$${productos["2 plazas fashion azul"].sommier}* SUAVEGON:FASHION soporte 80 kg  dens 21 kg x 20 cm 
-*$${productos["2 plazas piero"].sommier}* PIERO BODY PRO   soporte 90 kg  dens 23 kg x 20 cm
 *$${productos["2 plazas extra soft"].sommier}* EXTRA SOFT       soporte 90 kg  dens 23 KG x 20 cm
 
 ✓ SOMMIERS  2 PLAZAS✓✓✓SPRINGFLEX  DENSIDAD ALTA✓✓
@@ -561,7 +559,6 @@ const springflex = `++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ✓COLCHON DE 1 PLAZA ✓ // LINEA DENSIDAD MEDIA ALTA //
 SPRINGFLEX ,PIERO & SUAVEGON 
 *$${productos["1 plaza clasic"].colchon}* espuma clasicc ...........Para niño
-*$${productos["1 plaza fashion azul"].colchon}* SUAVEGON:FASHION    soporte  60kg esp dens 21 kg x 20 cm 
 *$${productos["1 plaza extra soft"].colchon}* EXTRA SOFT..        soporte  80kg esp dens.23 KG x 20 cm
 *$${productos["1 plaza oasis blue"].colchon}* OASIS BLUE ..      soporte 100kg esp dens 26 kg x 26 CM
 *$${productos["1 plaza oasis light"].colchon}* OASIS LIGHIT       soporte 100kg esp dens.26 kg x 26 cm
@@ -601,24 +598,6 @@ COLCHONES FABRICA SAN LUIS
 https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-SUAVEGON :FASHION PROMO
-   ✓COLCHON DE 1 PLAZA ✓
-       *$${productos["1 plaza fashion azul"].colchon}* 
-Y CON SOMMIERS 
-       *$${productos["1 plaza fashion azul"].sommier}*
-(precios abonando en efctivo O transferencia bancaria o mercado pago )
-espuma dens 21 kg x 20 cm soporte 60kg 
-Medidas 1.90 x 80 X 20 CM 
-✓✓Envio a domicilio s/c dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago
-Consulta o encargue 
-COLCHONES FABRICA SAN LUIS 
-☎️2664816847
-☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -697,7 +676,6 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 SOMMIERS DE 1 PLAZA✓
 SPRINGFLEX
 *$${productos["1 plaza clasic"].sommier}* espuma clasicc ........  .Para niños de17cm
-*$${productos["1 plaza fashion azul"].sommier}* SUAVEGON:FASHION para 60kg dens21kg de20cm 
 *$${productos["1 plaza extra soft"].sommier}* EXTRA SOFT ......para 80KG dens23kg de20kg
 *$${productos["1 plaza oasis blue"].sommier}* OASIS BLUE ......para 100kg dens26kg de26kg
 *$${productos["1 plaza oasis light"].sommier}* OASIS LIGHIT.....para 100kg dens26kg de26kg
@@ -715,9 +693,8 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ✓ COLCHONES 2 PLAZAS ✓///LINEA DENSIDAD MEDIA ALTA //
-SPRINGFLEX  PIERO & SUAVEGON 
+SPRINGFLEX & SUAVEGON
 *$${productos["2 plazas fashion azul"].colchon}* SUAVEGON:FASHION esp dens 21 kg x 20 cm    soporte 60 kg 
-*$${productos["2 plazas piero"].colchon}* PIERO BODY PROespuma dens 23 kg x 20 cm    soporte 80 kg
 *$${productos["2 plazas extra soft"].colchon}* EXTRA SOFT    espuma dens 23 KG x 20 cm    soporte 80 kg
 *$${productos["2 plazas oasis blue"].colchon}* OASIS BLUE    espuma dens 26 kg x 23 CM    soporte 100 kg 
 *$${productos["2 plazas oasis light"].colchon}* OASIS LIGHIT  espuma dens.26 kg x 26 cm    soporte 100 kg
@@ -729,10 +706,9 @@ Medidas 1.90 x 1.40 ...........
 
 ...............................................
 ✓ #SOMMIERS DE 2  PLAZAS✓
-SPRINGFLEX  PIERO  & SUAVEGON 
+SPRINGFLEX & SUAVEGON 
 (abonando en efctivo O transferencia bancaria o mercado pago )
 *$${productos["2 plazas fashion azul"].sommier}* SUAVEGON:FASHION esp dens 21 kg x 20 cm    soporte 60 kg 
-*$${productos["2 plazas piero"].sommier}* PIERO BODY PROespuma dens 23 kg x 20 cm    soporte 80 kg
 *$${productos["2 plazas extra soft"].sommier}* EXTRA SOFT    espuma dens 23 KG x 20 cm    soporte 80 kg
 *$${productos["2 plazas oasis blue"].sommier}* OASIS BLUE    espuma dens 26 kg x 23 CM    soporte 100 kg 
 *$${productos["2 plazas oasis light"].sommier}* OASIS LIGHIT  espuma dens.26 kg x 26 cm    soporte 100 kg
@@ -819,39 +795,7 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-✓ COLCHON  2 PLAZAS✓
-PIERO BODY PRO ESPUMA 
-      *$${productos["2 plazas piero"].colchon}*
-espuma dens 23 kg x 20 cm soporte 8Okg x persona
-Medidas 1.90 x 1.40 x 23 cm
-(precios abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio s/c dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
-COLCHONES FABRICA SAN LUIS 
-☎️2664816847
-☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 
-+++++++++++++++++++++++++++++++++++++++++++++++++
-
-✓ SOMMIERS 2 PLAZAS✓
-PIERO BODY PRO ESPUMA 
-      *$${productos["2 plazas piero"].sommier}*
-espuma dens 23 kg x 20 cm soporte 8Okg x persona
-Medidas 1.90 x 1.40 x 23 cm
-(precios abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio s/c dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
-COLCHONES FABRICA SAN LUIS 
-☎️2664816847
-☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
-
-++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ✓ COLCHON  2 PLAZAS✓
