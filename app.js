@@ -267,7 +267,6 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 ✓ COLCHONES 2 PLAZAS ✓///LINEA DENSIDAD MEDIA ALTA //
 SPRINGFLEX  PIERO & SUAVEGON 
 *$${productos["2 plazas fashion azul"].colchon}* SUAVEGON:FASHION esp dens 21 kg x 20 cm    soporte 60 kg 
-*$${productos["2 plazas piero"].colchon}* PIERO BODY PROespuma dens 23 kg x 20 cm    soporte 80 kg
 *$${productos["2 plazas extra soft"].colchon}* EXTRA SOFT    espuma dens 23 KG x 20 cm    soporte 80 kg
 *$${productos["2 plazas oasis blue"].colchon}* OASIS BLUE    espuma dens 26 kg x 23 CM    soporte 100 kg 
 *$${productos["2 plazas oasis light"].colchon}* OASIS LIGHIT  espuma dens.26 kg x 26 cm    soporte 100 kg
