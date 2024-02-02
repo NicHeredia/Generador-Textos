@@ -75,13 +75,13 @@ const productos = {
         },
         
         "1 plaza extra soft":{
-            "colchon": "100.000",
-            "sommier": "133.000"
+            "colchon": "110.000",
+            "sommier": "143.000"
         },
         
         "1 plaza oasis blue":{
-            "colchon": "178.000",
-            "sommier": "211.000"
+            "colchon": "170.000",
+            "sommier": "203.000"
         },
         
         "1 plaza oasis light":{
@@ -94,21 +94,15 @@ const productos = {
             "sommier": "175.000"
         },
         
-        "2 plazas piero":{
-            "colchon": "160.000",
-            "sommier": "195.000"
-        },
-        
-        
         "2 plazas extra soft":{
-            "colchon": "195.000",
-            "sommier": "230.000"
+            "colchon": "205.000",
+            "sommier": "240.000"
         },
         
         
         "2 plazas oasis blue":{
-            "colchon": "275.000",
-            "sommier": "310.000"
+            "colchon": "280.000",
+            "sommier": "315.000"
         },
         
         "2 plazas oasis light":{
@@ -122,18 +116,18 @@ const productos = {
         },
         
         "2 plazas native":{
-            "colchon": "380.000",
-            "sommier": "415.000"
+            "colchon": "370.000",
+            "sommier": "405.000"
         },
         
         "2 plazas mithos perseo":{
-            "colchon": "400.000",
-            "sommier": "435.000"
+            "colchon": "430.000",
+            "sommier": "465.000"
         },
         
         "2 plazas mithos zeus":{
-            "colchon": "420.000",
-            "sommier": "455.000"
+            "colchon": "435.000",
+            "sommier": "470.000"
         }
         
         }
