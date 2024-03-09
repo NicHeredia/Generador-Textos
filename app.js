@@ -13,17 +13,17 @@ var colchones = `COLCHONES FABRICA SAN LUIS
 calidades en todas las medidas de: 
 colchones & sommiers 
 respaldos & almohadas .....
- .....Recibimos todos los medios de pago...... 
-//efectivo//
-//transferencia bancaria//
-//Mercado Pago//
-//Recibimos tarjetas de crédito y débito//
-//Tarjeta naranja//
-......✓✓Envio a domicilio dentro de la ciudad//
-/// Atencion horario de comercio ///
-mañana y tarde , de lunes a sabados....
-//su consulta no molesta//  
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://colchonesfabricasl.vercel.app/
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -36,14 +36,17 @@ COLCHONES 1 PLAZA  //LINEA DENSIDAD MEDIA //
 *$${productos["1 plaza especial"].colchon}*  Matelase especial.  para 90 kg esp dens.25 kg x 25 cm
 Medidas 1.90 x 80 x 20 cm .
 (precios abonando en efctivo o transf,bancaria o mercado pago) 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -52,14 +55,17 @@ COLCHONES 1 PLAZA  //LINEA DENSIDAD MEDIA //
  espuma clasicc ...........Para niños
 Medidas 1.90 x 80 x 17 cm .
 (precios abonando en efctivo o transf,bancaria o mercado pago) 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -67,31 +73,34 @@ COLCHONES 1 PLAZA  //LINEA DENSIDAD MEDIA //
 .............*$${productos["1 plaza sabana"].colchon}*...................
  espuma sabana. ..Para 60 kg
 Medidas 1.90 x 80 x 20 cm .
-✓✓Envio a domicilio dentro de la ciudad
-(precios abonando en efctivo o transf,bancaria o mercado pago) 
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
-
+https://colchonesfabricasl.vercel.app/
 ++++++++++++++++++++++++++++++++++++++++++++++
 
 COLCHONES 1 PLAZA  //LINEA DENSIDAD MEDIA //
 .............*$${productos["1 plaza matelase"].colchon}*...................
  espuma tela matelase. ..Para 80 kg
 Medidas 1.90 x 80 x 20 cm .
-✓✓Envio a domicilio dentro de la ciudad
-(precios abonando en efctivo o transf,bancaria o mercado pago) 
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -99,14 +108,17 @@ COLCHONES 1 PLAZA  //LINEA DENSIDAD MEDIA //
  ..............*$${productos["1 plaza resortes"].colchon}*..........
  RESORTES ........Para 90 kg.
 Medidas 1.90 x 80 x 20 cm .
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -115,14 +127,17 @@ COLCHONES 1 PLAZA  //LINEA DENSIDAD MEDIA //
   Espuma tela .matelase especial..Para 90 kg  
 Medidas 1.90 x 80 x 20 cm .
 (precios abonando en efctivo o transf,bancaria o mercado pago) 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -145,14 +160,17 @@ $${productos["1 plaza y media resortes"].colchon}  tela Matelase ......Para 90 k
 $${productos["1 plaza y media especial"].colchon}  Matelase especial.  para 90 kg esp dens.25 kg x 25 cm
 Medidas 1.90 x 1.00 x 20 cm 
 (precios abonando en efctivo o transf,bancaria o mercado pago)
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -164,14 +182,17 @@ $${productos["2 plazas especial"].colchon}  Matelase especial.  para 90 kg esp d
 $${productos["2 plazas especial 27"].colchon}  Matelase especial.  para 100kg esp dens.27 kg x 25 cm
 MEDIDAS 1.90 X 1.40 CM X 20 CM ....
 (precios abonando en efctivo o transf,bancaria o mercado pago)
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -182,14 +203,17 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 MEDIDAS 1.90 X 1.40 CM X 20 CM ....
 
 (precios abonando en efctivo o transf,bancaria o mercado pago)
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -200,14 +224,17 @@ para 80 kg espuma dens.23 kg x m3
 MEDIDAS 1.90 X 1.40 CM X 20 CM ....
 
 (precios abonando en efctivo o transf,bancaria o mercado pago)
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -218,14 +245,17 @@ para 90 kg resortes
 MEDIDAS 1.90 X 1.40 CM X 20 CM ...
 
 (precios abonando en efctivo o transf,bancaria o mercado pago)
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -235,14 +265,17 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 para 90 kg espuma dens.25 kg x m3
 MEDIDAS 1.90 X 1.40 CM X 25 CM ....
 (precios abonando en efctivo o transf,bancaria o mercado pago)
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -253,14 +286,17 @@ para 100 kg espuma dens.27 kg x m3
 MEDIDAS 1.90 X 1.40 CM X 25 CM ....
 
 (precios abonando en efctivo o transf,bancaria o mercado pago)
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 
 +++++++++++++++++++++++++++++++++++++++++++++
@@ -291,14 +327,17 @@ $${productos["1 plaza resortes"].sommier} tela Matelase ...Para 90 kg.dens25kg d
 $${productos["1 plaza especial"].sommier} Matelase especial para 90 kg dens25kg de25cm
 Medidas 1.90 x 80cm.
 (precios abonando en efctivo o transf,bancaria o mercado pago)
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -310,14 +349,17 @@ SPRINGFLEX
 *$${productos["1 plaza oasis light"].sommier}* OASIS LIGHIT.....para 100kg dens26kg de26kg
 (abonando en efctivo O transferencia bancaria o mercado pago )
 Medidas 1.90 x 80 CM
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -326,14 +368,17 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
        *$${productos["1 plaza sabana"].sommier}* 
 espuma sabana. ..Para 60 kg
 Medidas 1.90 x 80 x 20 cm .
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -342,14 +387,17 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 espuma matelase .Para 90 kg 
 Medidas 1.90 x 80 x 20 cm .
 (precios abonando en efctivo o transf,bancaria o mercado pago) 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6 
+https://colchonesfabricasl.vercel.app/ 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -358,14 +406,17 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 RESORTES ........Para 90 kg.
 Medidas 1.90 x 80 x 20 cm .
 (precios abonando en efctivo o transf,bancaria o mercado pago) 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -374,14 +425,17 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 espuma Matelase especial ...para 90 kg 
 Medidas 1.90 x 80 x 20 cm .
 (precios abonando en efctivo o transf,bancaria o mercado pago)
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -393,14 +447,17 @@ $${productos["1 plaza y media resortes"].sommier} tela Matelase.........Para 90 
 $${productos["1 plaza y media especial"].sommier} Matelase especial ....para 90 kg dens25kg de25cm
 Medidas 1.90 x 1.00 x 20 cm .
 (precios abonando en efctivo o transf,bancaria o mercado pago) 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -409,14 +466,17 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
  espuma tela  sabana. ........Para 70 kg
 Medidas 1.90 x 1.00 x 20 cm .
 (precios abonando en efctivo o transf,bancaria o mercado pago) 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -428,14 +488,17 @@ $${productos["2 plazas especial"].sommier} espuma  Matelase especial.para 90 kg 
 $${productos["2 plazas especial 27"].sommier} espuma  Matelase especial.para 100 kgdens27kg de25cm
 MEDIDAS 1.90 X 1.40 CM X 20 CM ....
 (precios abonando en efctivo o transf,bancaria o mercado pago)
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -451,14 +514,17 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
 *$${productos["2 plazas aspen resortes"].sommier}* ASPEN EURO   soporte 100 kg resortes bonell   x 33 cm 
 *$${productos["2 plazas mithos perseo"].sommier}* MITHOS PERSEO soporte 120 kg espuma dens.35 kg x 35 cm
 *$${productos["2 plazas mithos zeus"].sommier}* MITHOS ZEUS   soporte 120 kg resortes pocket   x 35 cm
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 PRECIOS ACTUALES AL DIA DE LA FECHA
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -469,15 +535,17 @@ TELA SABANA
 SOPORTE Para 70 kg  ..
 ESPUMA DENSIDAD 21 KG  
 MEDIDAS 1.90 X 1,40 CM X 20 CM
-precios abonando en efctivo o transferencia bancaria o mercado pago)   
-✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
- https://maps.app.goo.gl/euauB7t147BHRLb58
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -487,15 +555,17 @@ ESPUMA TELA MATELASE
  DENSIDAD 23 KG 
 SOPORTE ....para 80 kg X lado 
 MEDIDAS 1.90 X 1,40 CM X 20 CM ....
-(abonando en efctivo o transferencia bancaria o mercado pago)
-✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-✓‌Mercado pago..
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
-☎️2664753939.
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+☎️2664753939
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -504,15 +574,17 @@ https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
  DENSIDAD 23 KG 
 SOPORTE ....para 90 kg X lado 
 MEDIDAS 1.90 X 1,40 CM X 20 CM ....
-(abonando en efctivo o transferencia bancaria o mercado pago)
-✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-✓‌Mercado pago..
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
-☎️2664753939.
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6  
+☎️2664753939
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -522,14 +594,17 @@ Tela Matelase
 Dens.25 kg 
 Soporte para 90 kg x persona
 Medidas 1.90 x 1.40 x 25 cm 
-✓Precio abonando en efectivo o transferencia bancaria o mercado pago.
-✓Recibimos todas las tarjetas de crédito 💳
-✓envio sin cargo dentro de la ciudad de San Luis...
-Local comercial
-Colchones fabrica San Luis
-2664815847
-2664753939.
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6 
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://colchonesfabricasl.vercel.app/ 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -540,14 +615,17 @@ para 100 kg espuma dens.27 kg x m3
 MEDIDAS 1.90 X 1.40 CM X 25 CM ....
 
 (precios abonando en efctivo o transf,bancaria o mercado pago)
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -564,15 +642,17 @@ SPRINGFLEX ,PIERO & SUAVEGON
 Medidas 1.90 x 80 CM 
 Medidas 1.90 x 80 
 (precio abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago
-Consulta o encargue 
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -586,15 +666,17 @@ Y CON SOMMIERS
       *$${productos["1 plaza extra soft"].sommier}*  
 (abonando en efctivo O transferencia bancaria o mercado pago )
 Medidas 1.90 x 80 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago
-Consulta o encargue 
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -606,15 +688,17 @@ espuma dens 26 kg x 26 CM
 Medidas 1.90 x 80 
 .       *$${productos["1 plaza oasis blue"].colchon}* 
 (abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago
-Consulta o encargue 
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -624,15 +708,17 @@ SPRINGFLEX OASIS BLUE de 26 cm
 (abonando en efctivo O transferencia bancaria o mercado pago )
 espuma dens 26 kg x 26 CM
 Medidas 1.90 x 80 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago
-Consulta o encargue 
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -642,15 +728,17 @@ espuma dens.26 kg x 26 cm
 Medidas 1.90 X 80CM X 26 CM 
        *$${productos["1 plaza oasis light"].colchon}* 
 (abonando en efctivo O transferencia bancaria o mercado pago ) 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago
-Consulta o encargue 
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -660,15 +748,17 @@ SPRINGFLEX OASIS LIGHIT
 (abonando en efctivo O transferencia bancaria o mercado pago )
 espuma dens.26 kg x 26 cm 
 Medidas 1.90 X 80CM X 26 CM 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago
-Consulta o encargue 
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -680,14 +770,17 @@ SPRINGFLEX
 *$${productos["1 plaza oasis light"].sommier}* OASIS LIGHIT.....para 100kg dens26kg de26kg
 (abonando en efctivo O transferencia bancaria o mercado pago )
 Medidas 1.90 x 80 CM
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -716,11 +809,17 @@ SPRINGFLEX & SUAVEGON
 *$${productos["2 plazas mithos zeus"].sommier}* MITHOS ZEUS   resortes poket  35 kg x 33 cm soporte  100 kg  
 *$${productos["2 plazas aspen resortes"].sommier}* ASPEN EURO    resortes bonell 30 kg x 30 cm soporte  120 kg  
 Medidas 1.90 x 1.40 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
+COLCHONES FABRICA SAN LUIS 
+☎️2664816847
+☎️2664753939
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -730,14 +829,17 @@ SPRINGFLEX EXTRA SOFT
 espuma dens 23 KG soporte 80 kg x persona
 Medidas 1.90 x 1.40 x 20 cm
 (abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -747,14 +849,17 @@ SPRINGFLEX EXTRA SOFT
 espuma dens 23 KG soporte 80 kg x persona
 Medidas 1.90 x 1.40 x 20 cm
 (abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -766,14 +871,17 @@ SUAVEGON :FASHION PROMO
 espuma dens 21 kg x 20 cm soporte 60kg
 Medidas 1.90 x 1.40 x 20 cm
 (precios abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     
  
@@ -783,14 +891,17 @@ SUAVEGON :FASHION PROMO
 espuma dens 21 kg x 20 cm soporte 60kg
 Medidas 1.90 x 1.40 x 20 cm
 (precios abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -803,14 +914,17 @@ SPRINGFLEX OASIS BLUE DE 23CM
 espuma dens.26 kg    soporte 100 kg x persona
 Medidas 1.90 x 1.40 x 23 cm
        (precios abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++
 
@@ -820,14 +934,17 @@ SPRINGFLEX OASIS BLUE DE 23CM
 espuma dens.26 kg    soporte 100 kg x persona
 Medidas 1.90 x 1.40 x 23 cm
 (precios abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -837,14 +954,17 @@ SPRINGFLEX OASIS LIGHIT
 espuma dens.26 kg soporte   100 kg x persona  
 Medidas 1.90 x 1.40 x 26 cm
 (precios abonando en efctivo O transferencia bancaria o mercado pago
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 ✓
@@ -856,14 +976,17 @@ SPRINGFLEX OASIS LIGHIT
 espuma dens.26 kg soporte   100 kg x persona  
 Medidas 1.90 x 1.40 x 26 cm
 (precios abonando en efctivo O transferencia bancaria o mercado pago
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -874,14 +997,17 @@ NATIVE GREY  EUROPILOW ESPUMA DENSIDAD 30 KG
      espuma dens.30 kg soporte + 100 kg x persona  
 Medidas 1.90 x 1.40 x 30 cm 
 (abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -891,14 +1017,17 @@ NATIVE GREY  EUROPILOW ESPUMA DENSIDAD 30 KG
 espuma dens.30 kg soporte + 100 kg x persona  
 Medidas 1.90 x 1.40 x 30 cm 
 (abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -911,11 +1040,14 @@ Medidas 1.90 x 1.40
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++
        
@@ -924,14 +1056,17 @@ SPRINGFLEX ASPEN EURO
       *$${productos["2 plazas aspen resortes"].sommier}*
 resortes bonell 30 kg x 30 cm soporte  120 kg                                          
 Medidas 1.90 x 1.40 
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -941,14 +1076,17 @@ SPRINGFLEX MITHOS PERSEO
 espuma dens.35 kg soporte peso  de 120 kg x persona
 Medidas 1.90 x 1.40 x 35 cm
 (abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -958,14 +1096,17 @@ SPRINGFLEX MITHOS PERSEO
 espuma dens.35 kg soporte peso  de 120 kg x persona
 (abonando en efctivo O transferencia bancaria o mercado pago )
 Medidas 1.90 x 1.40 x 35 cm 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -975,14 +1116,17 @@ SPRINGFLEX MITHOS ZEUS
 RESORTES POKET dens.35 kg soporte peso  de 120 kg x persona
 Medidas 1.90 x 1.40 x 35 cm 
 (abonando en efctivo O transferencia bancaria o mercado pago )
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -992,14 +1136,17 @@ SPRINGFLEX MITHOS ZEUS
 RESORTES POKET dens.35 kg soporte peso  de 120 kg x persona
 (abonando en efctivo O transferencia bancaria o mercado pago )
 Medidas 1.90 x 1.40 x 35 cm 
-✓✓Envio a domicilio dentro de la ciudad
-✓Recibimos tarjetas de crédito y débito
-✓Tarjeta naranja
-‌✓Mercado pago.
+MEDIOS DE PAGO :
+// efctivo  
+// transf,bancaria
+// mercado pago
+// tarjetas de crédito y débito
+// Tarjeta naranja
+// ENTREGAS A DOMICILIO..
 COLCHONES FABRICA SAN LUIS 
 ☎️2664816847
 ☎️2664753939
-https://goo.gl/maps/Vt8h5sBvR4WgtpNS6
+https://colchonesfabricasl.vercel.app/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 `;
