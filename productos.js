@@ -5,23 +5,23 @@ const productos = {
         },
         
         "1 plaza matelase": {
-            "colchon": "70.000",
-            "sommier": "110.000"
+            "colchon": "75.000",
+            "sommier": "115.000"
         },
         
         "1 plaza resortes": {
-            "colchon": "85.000",
-            "sommier": "125.000"
-        },
-        
-        "1 plaza especial": {
-            "colchon": "95.000",
+            "colchon": "90.000",
             "sommier": "135.000"
         },
         
+        "1 plaza especial": {
+            "colchon": "100.000",
+            "sommier": "140.000"
+        },
+        
         "1 plaza y media sabana": {
-            "colchon": "70.000",
-            "sommier": "115.000"
+            "colchon": "75.000",
+            "sommier": "120.000"
         },
         
         "1 plaza y media matelase": {
